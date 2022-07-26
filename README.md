@@ -85,7 +85,7 @@ foreground pipeline.
 A minishell (in it's simplest form) will extract a full command line (breaking the while loop when it reaches \n) and analyzing it. To follow the initial logic, we're using readline() function.\
 This `command line` goes through many phases before being executed and showing the result.
 
-First it goes through a [toknizer](/sources/parse/tokenizer.c), which splits the input into a "valid" list o tokens.
+First it goes through a [toknizer](/sources/parse/tokenizer.c), which splits the input into a "valid" list of tokens.
 
 Second, [Syntax validation](/sources/parse/syntax_validation.c): It goes through the doubly linked list of tokens,
 and checks for syntax errors at every node. This is done by looking at the left and the right of the current node.
