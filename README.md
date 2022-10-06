@@ -94,7 +94,7 @@ if some strange or some unexpected token is encountered, an error is printed to 
       
 third, the [expander](/sources/parse/expander.c) wich expand variables to their values.
     
-Last, the [parser](/sources/parse/parser.c) regroup list of command to be sent to the executor.
+Last, the [parser](/sources/parse/parser.c) regroup list of command to be sent to the executor wich the final step of the project.
     
 ## Syntax Rules
 ````
