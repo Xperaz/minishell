@@ -9,8 +9,8 @@ This project was done in pairs.
 # Instructions
 project must be written in C.
 
-- Your functions should not quit unexpectedly (segmentation fault, bus error, double
-free, etc) apart from undefined behaviors. If this happens, your project will be
+- Our functions should not quit unexpectedly (segmentation fault, bus error, double
+free, etc) apart from undefined behaviors. If this happens, The project will be
 considered non functional and will receive a 0 during the evaluation.
 
 - All heap allocated memory space must be properly freed when necessary. No leaks
