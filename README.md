@@ -1,5 +1,5 @@
 # MINISHELL
-minishell is a Unix-like shell written in [C](https://en.wikipedia.org/wiki/C_(programming_language)) language by [@xperaz](https://github.com/xperaz) and [@Cyber-z3ter](https://github.com/Cyber-z3ter), this shell was inspired by [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)).
+minishell is a Unix-like shell written in [C](https://en.wikipedia.org/wiki/C_(programming_language)) language by [@xperaz](https://github.com/xperaz) and [@Ouzzhamza](https://github.com/Ouzzhamza), this shell was inspired by [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)).
 This project was done in pairs.
 ## Content
 - [Instructions](#features)
