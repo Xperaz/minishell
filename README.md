@@ -60,7 +60,7 @@ foreground pipeline.
   - ctrl-D exits the shell.
   - ctrl-\ does nothing.
   
-- Your shell must implement the following builtins:
+- Our shell must implement the following builtins:
   - echo with option -n
   - cd with only a relative or absolute path
   - pwd with no options
